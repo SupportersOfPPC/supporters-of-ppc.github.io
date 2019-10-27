@@ -1,2 +1,2 @@
-# supporters-of-ppc.github.io
+# supportersofppc.github.io
 GitHub Pages for Supporters of PPC 
